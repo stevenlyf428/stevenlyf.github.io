@@ -1,56 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>小飞的学习屋</title>
-    <link>http://example.org/</link>
-    <description>Recent content on 小飞的学习屋</description>
+    <title>思考感悟 on 小飞的学习屋</title>
+    <link>http://example.org/tags/%E6%80%9D%E8%80%83%E6%84%9F%E6%82%9F/</link>
+    <description>Recent content in 思考感悟 on 小飞的学习屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Aug 2021 02:56:24 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My Important post</title>
-      <link>http://example.org/posts/test1/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>http://example.org/posts/test1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My 2nd Important post</title>
-      <link>http://example.org/posts/test2/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>http://example.org/posts/test2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://example.org/about/</link>
-      <pubDate>Thu, 19 Aug 2021 02:56:51 +0800</pubDate>
-      
-      <guid>http://example.org/about/</guid>
-      <description>hi👋，我叫stevenlyf。各大平台都叫stevenlyf428。
-关于名字 至于为什么叫这个名字，是因为小学时候英语老师给每个同学起名，你叫Tom，你叫Jerry&amp;hellip;轮到我，老师说你就叫steven吧。😓
-至于后面还带了个lyf，这是我中文名字的缩写。
-有的时候你还会看见我叫做stevenlyf428。428是我大学时候的宿舍号。
-至于为什么要加上这么长这么怪的后缀，那是因为网络水太深，stevenlyf在好多平台都重名了QAQ（这都能重！555555）。。。。
-关于我 目前研一，在西南大学的lab1010实验室研究自然语言处理（NLP）🏫。
-关于本站 本人的所有读书笔记都会放到gitbook上。在此更新目录。
- 吴恩达的深度学习 语音与语言处理 ESL etc  读书笔记会记录一些比较系统的知识总结。而学习中不免会产生一些琐碎的奇思妙想，于是本站诞生了。
-🐯🐯</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Thu, 19 Aug 2021 02:56:24 +0800</pubDate>
-      
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 19 Aug 2021 02:56:24 +0800</lastBuildDate><atom:link href="http://example.org/tags/%E6%80%9D%E8%80%83%E6%84%9F%E6%82%9F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>设计人生</title>
       <link>http://example.org/posts/%E8%AE%BE%E8%AE%A1%E4%BA%BA%E7%94%9F/</link>
@@ -89,8 +45,6 @@
 困难无穷多也，我们遇到挫折，可以伤心难受，但是不要气馁，我们需要的是利用这次的挫折去反思，去避免以后的更多困难。
 这才是真正的捷径。</description>
     </item>
-    
-    
     
   </channel>
 </rss>
