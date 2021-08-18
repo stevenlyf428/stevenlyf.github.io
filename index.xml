@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>小飞的学习屋</title>
-    <link>http://example.org/</link>
+    <link>http://stevenlyf428.github.io/</link>
     <description>Recent content on 小飞的学习屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Aug 2021 02:56:24 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Aug 2021 02:56:24 +0800</lastBuildDate><atom:link href="http://stevenlyf428.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Important post</title>
-      <link>http://example.org/posts/test1/</link>
+      <link>http://stevenlyf428.github.io/posts/test1/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>http://example.org/posts/test1/</guid>
+      <guid>http://stevenlyf428.github.io/posts/test1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My 2nd Important post</title>
-      <link>http://example.org/posts/test2/</link>
+      <link>http://stevenlyf428.github.io/posts/test2/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>http://example.org/posts/test2/</guid>
+      <guid>http://stevenlyf428.github.io/posts/test2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>http://stevenlyf428.github.io/about/</link>
       <pubDate>Thu, 19 Aug 2021 02:56:51 +0800</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>http://stevenlyf428.github.io/about/</guid>
       <description>hi👋，我叫stevenlyf。各大平台都叫stevenlyf428。
 关于名字 至于为什么叫这个名字，是因为小学时候英语老师给每个同学起名，你叫Tom，你叫Jerry&amp;hellip;轮到我，老师说你就叫steven吧。😓
 至于后面还带了个lyf，这是我中文名字的缩写。
@@ -44,19 +44,19 @@
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>http://stevenlyf428.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 19 Aug 2021 02:56:24 +0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>http://stevenlyf428.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>设计人生</title>
-      <link>http://example.org/posts/%E8%AE%BE%E8%AE%A1%E4%BA%BA%E7%94%9F/</link>
+      <link>http://stevenlyf428.github.io/posts/%E8%AE%BE%E8%AE%A1%E4%BA%BA%E7%94%9F/</link>
       <pubDate>Thu, 19 Aug 2021 02:56:24 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E8%AE%BE%E8%AE%A1%E4%BA%BA%E7%94%9F/</guid>
+      <guid>http://stevenlyf428.github.io/posts/%E8%AE%BE%E8%AE%A1%E4%BA%BA%E7%94%9F/</guid>
       <description>小盆友,你们是不是有很多问号们，总是怀疑自己，觉得自己好惨一人。
 是不是有时候突然发现自己的人生轨迹总是莫名开错方向。
 来，我来开导开导你。
