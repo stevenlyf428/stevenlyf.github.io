@@ -173,6 +173,26 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
+    <h2>IterE</h2>
+  </header>
+  <section class="entry-content">
+    <p>[toc]
+Reserach problem   问题一：传统的KGE(Knowledge Graph Embedding)存在稀疏性问题(对于训练集中稀疏的实体，KGE模型学不到很好的表示)；
+  问题二：在KG中做rule learning具有效率的问题(搜索空间巨大)。
+  针对以上两点，作者思考是否有一种方式能够同时学习embedding和rule，同时让彼此相互促进。针对问题一，作者利用rules去帮助更好的学习embedding；针对问题二，作者采取一种搜索加剪枝的迭代式学习的策略。
+符号说明：
+ 本文的rule learning，即Axiom，形如$(x, r, z) \gets (x, r, y), (y, r, z)$，以下统称为Axiom； Knowledge Graph统称KG。  Flowchart Flowchart 1：
+Flowchart 2:Proposed algorithm 一共有三个模块，分为：
+ Part 1:Embedding learning，负责学习三元组的Embedding表示。利用原始的训练集、规则生成的新三元组(作为补充的正例)、和随机负采样出来的反例，进行训练； Part 2:Axiom Induction，负责生成Axiom pool（有利于减少搜索空间，仅生成一次）和筛选高置信度的Axiom； Part 3:Axiom Injection，负责筛选出稀疏的实体结点，利用Axiom为稀疏的实体生成新的三元组。  最后，对这三个模块迭代式学习n次后获得最终的KG Embedding表示。
+Embedding Learning KG Embedding，是利用原始的训练集、规则生成的新三元组(作为补充的正例)、和随机负采样出来的反例，进行训练。
+首先，是明确模型的训练集： $$ \mathcal{I}=\left{\left((s, r, o), l_{\text {sro }}\right) \mid((s, r, o)) \in \mathcal{T} \wedge \mathcal{T}_{\text {axiom }} \wedge \mathcal{T}_{\text {negative }}\right} $$ 其中，...</p>
+  </section>
+  <footer class="entry-footer">November 28, 2021</footer>
+  <a class="entry-link" aria-label="post link to IterE" href="http://stevenlyf428.github.io/posts/itere/"></a>
+</article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
     <h2>My First Post</h2>
   </header>
   <section class="entry-content">
