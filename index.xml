@@ -8,24 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Nov 2021 20:35:07 +0800</lastBuildDate><atom:link href="http://stevenlyf428.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Important post</title>
-      <link>http://stevenlyf428.github.io/posts/test1/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>http://stevenlyf428.github.io/posts/test1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My 2nd Important post</title>
-      <link>http://stevenlyf428.github.io/posts/test2/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>http://stevenlyf428.github.io/posts/test2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>IterE</title>
       <link>http://stevenlyf428.github.io/posts/itere/</link>
       <pubDate>Sun, 28 Nov 2021 20:35:07 +0800</pubDate>
@@ -44,7 +26,7 @@ Embedding Learning KG Embedding，是利用原始的训练集、规则生成的�
     </item>
     
     <item>
-      <title>About</title>
+      <title>关于我</title>
       <link>http://stevenlyf428.github.io/about/</link>
       <pubDate>Thu, 19 Aug 2021 02:56:51 +0800</pubDate>
       
@@ -55,18 +37,7 @@ Embedding Learning KG Embedding，是利用原始的训练集、规则生成的�
 有的时候你还会看见我叫做stevenlyf428。428是我大学时候的宿舍号。
 至于为什么要加上这么长这么怪的后缀，那是因为网络水太深，stevenlyf在好多平台都重名了QAQ（这都能重！555555）。。。。
 关于我 目前研一，在西南大学的lab1010实验室研究自然语言处理（NLP）🏫。
-关于本站 本人的所有读书笔记都会放到gitbook上。在此更新目录。
- 吴恩达的深度学习 语音与语言处理 ESL etc  读书笔记会记录一些比较系统的知识总结。而学习中不免会产生一些琐碎的奇思妙想，于是本站诞生了。
-🐯🐯</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://stevenlyf428.github.io/posts/my-first-post/</link>
-      <pubDate>Thu, 19 Aug 2021 02:56:24 +0800</pubDate>
-      
-      <guid>http://stevenlyf428.github.io/posts/my-first-post/</guid>
-      <description></description>
+PS  2022年2月23日，小飞同学准备跑路后端开发，开始学go；  </description>
     </item>
     
     <item>

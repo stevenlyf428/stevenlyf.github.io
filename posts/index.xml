@@ -8,24 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Nov 2021 20:35:07 +0800</lastBuildDate><atom:link href="http://stevenlyf428.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Important post</title>
-      <link>http://stevenlyf428.github.io/posts/test1/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>http://stevenlyf428.github.io/posts/test1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My 2nd Important post</title>
-      <link>http://stevenlyf428.github.io/posts/test2/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>http://stevenlyf428.github.io/posts/test2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>IterE</title>
       <link>http://stevenlyf428.github.io/posts/itere/</link>
       <pubDate>Sun, 28 Nov 2021 20:35:07 +0800</pubDate>
@@ -41,15 +23,6 @@ Flowchart 2:Proposed algorithm 一共有三个模块，分为：
  Part 1:Embedding learning，负责学习三元组的Embedding表示。利用原始的训练集、规则生成的新三元组(作为补充的正例)、和随机负采样出来的反例，进行训练； Part 2:Axiom Induction，负责生成Axiom pool（有利于减少搜索空间，仅生成一次）和筛选高置信度的Axiom； Part 3:Axiom Injection，负责筛选出稀疏的实体结点，利用Axiom为稀疏的实体生成新的三元组。  最后，对这三个模块迭代式学习n次后获得最终的KG Embedding表示。
 Embedding Learning KG Embedding，是利用原始的训练集、规则生成的新三元组(作为补充的正例)、和随机负采样出来的反例，进行训练。
 首先，是明确模型的训练集： $$ \mathcal{I}=\left{\left((s, r, o), l_{\text {sro }}\right) \mid((s, r, o)) \in \mathcal{T} \wedge \mathcal{T}_{\text {axiom }} \wedge \mathcal{T}_{\text {negative }}\right} $$ 其中，</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>http://stevenlyf428.github.io/posts/my-first-post/</link>
-      <pubDate>Thu, 19 Aug 2021 02:56:24 +0800</pubDate>
-      
-      <guid>http://stevenlyf428.github.io/posts/my-first-post/</guid>
-      <description></description>
     </item>
     
     <item>
